@@ -100,7 +100,7 @@ async def delete_model_api(model_id: int, db: Session = Depends(get_db)):
 
 @app.post("/cars/create")
 async def create_cars_api(cars: CarSchema, db: Session = Depends(get_db)):
-    return create_car(db, cars)
+    return create_cars(db, cars)
 
 
 @app.get("/cars")

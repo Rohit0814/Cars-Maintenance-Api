@@ -91,7 +91,7 @@ def delete_model(db:Session, model_id:int):
 
 # ****************************************************cars Crud started*****************************************************************
 
-def create_car(db:Session, car:Car):
+def create_cars(db:Session, car:Car):
     db_cars = Car(color=car.color, vin=car.vin, production_year = car.production_year, mileage = car.mileage, price = car.price, registration_date= car.registration_date, owner = car.owner, model_id = car.model_id)
     if not db_cars:
         raise HTTPException(status_code=404,detail="user not found")
