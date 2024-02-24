@@ -27,7 +27,7 @@ Require Software to execute
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/Rohit0814/Cars-Maintenance-Api.git)
+  git clone https://github.com/Rohit0814/Cars-Maintenance-Api.git
 ```
 
 Go to the project directory
