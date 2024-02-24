@@ -4,7 +4,11 @@
 The "Cars-Maintenance-Api" is a web API designed for managing information related to cars, manufacturers, and models. It utilizes a PostgreSQL database to store and retrieve data. The database consists of three main tables: "manufacturers," "models," and "cars."
 
 
-![Logo](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/images%20(1).jpeg?raw=true)
+<p align="center">
+  <img src = https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/images%20(1).jpeg?raw=true width=50%>
+</p>
+
+<!--![Logo](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/images%20(1).jpeg?raw=true)-->
 
 
 ## Installation
@@ -53,16 +57,25 @@ Start the server
 
 ## Api Views
 
-**Manufacturer**
-![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/M1.png?raw=true)
+**Manufacturer**<br>
+<p align="center">
+  <img src = https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/M1.png?raw=true width=50%>
+<!-- ![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/M1.png?raw=true) -->
+</p>
 
 
-**Model**
-![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/MODEL1.png?raw=true)
+**Model**<br>
+<p align="center">
+  <img src = https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/MODEL1.png?raw=true width=50%>
+<!-- ![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/MODEL1.png?raw=true) -->
+</p>
 
 
-**Cars**
-![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/CAR1.png?raw=true)
+**Cars**<br>
+<p align="center">
+  <img src = https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/CAR1.png?raw=true width=50%>
+<!-- ![App Screenshot](https://github.com/Rohit0814/Cars-Maintenance-Api/blob/main/CAR1.png?raw=true) -->
+</p>
 
 ## Features
 
